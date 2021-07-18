@@ -5,15 +5,15 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="das2",
-    version="0.0.2",
+    version="0.0.1",
     author="Oren Leung",
     author_email="ok2leung@uwaterloo.ca",
     description="A Distributed Data Parallelism Library for Tensorflow Keras",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/OrenLeung/das2",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/OrenLeung/das2/issues",
     },
     packages=setuptools.find_packages(),
     classifiers=[
