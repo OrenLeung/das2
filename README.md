@@ -1,5 +1,6 @@
 # DAS 2 🚀 - A Distributed Data Parallelism Library for Tensorflow Keras
 
+[![PyPI version](https://badge.fury.io/py/das2.svg)](https://badge.fury.io/py/das2)
 ![GitHub issues](https://img.shields.io/github/issues/OrenLeung/das2)
 ![GitHub contributors](https://img.shields.io/github/contributors/OrenLeung/das2)
 ![GitHub last commit](https://img.shields.io/github/last-commit/OrenLeung/das2)
