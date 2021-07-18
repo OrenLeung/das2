@@ -1,5 +1,9 @@
 # DAS 2 🚀 - A Distributed Data Parallelism Library for Tensorflow Keras
 
+![GitHub issues](https://img.shields.io/github/issues/OrenLeung/das2)
+![GitHub contributors](https://img.shields.io/github/contributors/OrenLeung/das2)
+![GitHub last commit](https://img.shields.io/github/last-commit/OrenLeung/das2)
+
 **NOTE BETA: This is for experimenting and learning purposes. Please use [tf.distribute.Strategy](https://www.tensorflow.org/api_docs/python/tf/distribute/Strategy) for not-learning workload**
 
 
